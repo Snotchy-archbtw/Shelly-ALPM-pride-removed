@@ -1107,11 +1107,8 @@ msgstr "Mentés"
 msgid "View Changelog"
 msgstr "Változásnapló megtekintése"
 
-msgid "Community fluxer"
-msgstr "Közösségi fluxer"
-
-msgid "Sponsor"
-msgstr "Támogató"
+msgid "Snotchy on Linktree"
+msgstr "Snotchy on Linktree"
 
 msgid "Search..."
 msgstr "Keresés..."
