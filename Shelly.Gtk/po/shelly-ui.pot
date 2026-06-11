@@ -1115,10 +1115,7 @@ msgstr ""
 msgid "View Changelog"
 msgstr ""
 
-msgid "Community fluxer"
-msgstr ""
-
-msgid "Sponsor"
+msgid "Snotchy on Linktree"
 msgstr ""
 
 msgid "Search..."
