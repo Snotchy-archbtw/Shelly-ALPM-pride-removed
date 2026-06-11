@@ -1,6 +1,7 @@
 ![shelly_banner.png](shelly_banner.png)
 # De-Gayed by Snotchy
-### [Find me at](https://linktr.ee/Snotchy)
+### Find me at [My Linktree](https://linktr.ee/Snotchy)
+
 
 ### Powered by
 
