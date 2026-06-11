@@ -1146,11 +1146,8 @@ msgstr "保存"
 msgid "View Changelog"
 msgstr "Changelog を見る"
 
-msgid "Community fluxer"
-msgstr "コミュニティー fluxer"
-
-msgid "Sponsor"
-msgstr "スポンサー"
+msgid "Snotchy on Linkree"
+msgstr "LinktreeのSnotchy"
 
 msgid "Search..."
 msgstr "検索..."
