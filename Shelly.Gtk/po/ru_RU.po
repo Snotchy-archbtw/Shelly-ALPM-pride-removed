@@ -1132,11 +1132,8 @@ msgstr "Сохранить"
 msgid "View Changelog"
 msgstr "Просмотреть журнал изменений"
 
-msgid "Community fluxer"
-msgstr "Fluxer-сообщество"
-
-msgid "Sponsor"
-msgstr "Спонсируйте"
+msgid "Snotchy on Linktree"
+msgstr "Snotchy on Linktree"
 
 msgid "Search..."
 msgstr "Поиск..."
