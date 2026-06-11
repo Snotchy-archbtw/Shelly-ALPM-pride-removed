@@ -1132,11 +1132,8 @@ msgstr "Salvar"
 msgid "View Changelog"
 msgstr "Visualizar histórico de alterações"
 
-msgid "Community fluxer"
-msgstr "Servidor Fluxer da comunidade"
-
-msgid "Sponsor"
-msgstr "Patrocinar"
+msgid "Snotchy on Linktree"
+msgstr "Snotchy on Linktree"
 
 msgid "Search..."
 msgstr "Pesquisar..."
