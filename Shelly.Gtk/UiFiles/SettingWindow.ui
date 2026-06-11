@@ -693,20 +693,14 @@
                                         <child>
                                             <object class="GtkLinkButton" id="github_link">
                                                 <property name="label" translatable="yes">GitHub</property>
-                                                <property name="uri">https://github.com/Seafoam-Labs/Shelly-ALPM
+                                                <property name="uri">https://github.com/Snotchy-archbtw/Shelly-ALPM-pride-removed
                                                 </property>
                                             </object>
                                         </child>
                                         <child>
-                                            <object class="GtkLinkButton" id="fluxer_link">
+                                            <object class="GtkLinkButton" id="linktree_link">
                                                 <property name="label" translatable="yes">Community fluxer</property>
-                                                <property name="uri">https://fluxer.gg/vOjrMXcE</property>
-                                            </object>
-                                        </child>
-                                        <child>
-                                            <object class="GtkLinkButton" id="sponsor_link">
-                                                <property name="label" translatable="yes">Sponsor</property>
-                                                <property name="uri">https://buymeacoffee.com/zoeyerinba3</property>
+                                                <property name="uri">https://linktr.ee/Snotchy</property>
                                             </object>
                                         </child>
                                     </object>
