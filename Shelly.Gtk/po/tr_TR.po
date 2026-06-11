@@ -1083,11 +1083,8 @@ msgstr "Kaydet"
 msgid "View Changelog"
 msgstr "Değişiklik günlüğünü görüntüle"
 
-msgid "Community fluxer"
-msgstr "Topluluk katkıcısı"
-
-msgid "Sponsor"
-msgstr "Sponsor"
+msgid "Snotchy on Linktree"
+msgstr "Snotchy on Linktree"
 
 msgid "Search..."
 msgstr "Ara..."
