@@ -1124,11 +1124,8 @@ msgstr "Запази"
 msgid "View Changelog"
 msgstr "Преглед на changelog"
 
-msgid "Community fluxer"
-msgstr "Общностен fluxer"
-
-msgid "Sponsor"
-msgstr "Спонсор"
+msgid "Snotchy on Linktree"
+msgstr "Snotchy on Linktree"
 
 msgid "Search..."
 msgstr "Търсене..."
