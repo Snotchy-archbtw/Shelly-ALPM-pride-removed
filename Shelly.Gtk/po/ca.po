@@ -1117,11 +1117,8 @@ msgstr "Desa"
 msgid "View Changelog"
 msgstr "Veure registre de canvis"
 
-msgid "Community fluxer"
-msgstr "Fluxer de la comunitat"
-
-msgid "Sponsor"
-msgstr "Patrocinador"
+msgid "Snotchy on Linktree"
+msgstr "Snotchy a l'arbre d'enllaç"
 
 msgid "Search..."
 msgstr "Cerca..."
