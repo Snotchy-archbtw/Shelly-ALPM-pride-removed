@@ -699,7 +699,7 @@
                                         </child>
                                         <child>
                                             <object class="GtkLinkButton" id="linktree_link">
-                                                <property name="label" translatable="no">Snotchy on Linktree</property>
+                                                <property name="label" translatable="yes">Snotchy on Linktree</property>
                                                 <property name="uri">https://linktr.ee/Snotchy</property>
                                             </object>
                                         </child>
