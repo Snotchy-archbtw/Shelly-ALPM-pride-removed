@@ -1150,11 +1150,8 @@ msgstr "Zapisz"
 msgid "View Changelog"
 msgstr "Zobacz dziennik zmian"
 
-msgid "Community fluxer"
-msgstr "Fluxer społecznościowy"
-
-msgid "Sponsor"
-msgstr "Sponsor"
+msgid "Snotchy on Linktree"
+msgstr "Snotchy on Linktree"
 
 msgid "Search..."
 msgstr "Szukaj..."
